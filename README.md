@@ -12,7 +12,7 @@
 ```javascript
 const informatica = {
   pronouns: "he" | "him",
-  code: [R, Python, Scala, SQL],
+  code: [R, Python, HTML5, Javascript, CSS3],
   tools: [Rstudio, Anaconda, Jupyter-Notebook],
   framework: [Apache Spark],
   operative_systems: ["GNU/Linux, UNIX"],
