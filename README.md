@@ -13,8 +13,8 @@
 const informatica = {
   pronouns: "he" | "him",
   code: [R, Python, HTML5, Javascript, CSS3],
-  tools: [Rstudio, Anaconda, Jupyter-Notebook],
-  framework: [Apache Spark],
+  tools: [Rstudio, Anaconda, Apache Neatbeans, PHP],
+  framework: [Flask, Apache Spark],
   operative_systems: ["GNU/Linux, UNIX"],
 }
 ```
